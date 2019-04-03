@@ -1,0 +1,7 @@
+__init__.py
+__MACOSX/*
+__pycache__/*
+.pytest_cache/*
+.vscode/*
+output.xml
+stdout.txt
